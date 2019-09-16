@@ -1,0 +1,28 @@
+E:\koray yazlab\kormus\kormus\bin\Debug\kormus.exe.config
+E:\koray yazlab\kormus\kormus\bin\Debug\kormus.exe
+E:\koray yazlab\kormus\kormus\bin\Debug\kormus.pdb
+E:\koray yazlab\kormus\kormus\obj\Debug\kormus.csprojResolveAssemblyReference.cache
+E:\koray yazlab\kormus\kormus\obj\Debug\kormus.Form1.resources
+E:\koray yazlab\kormus\kormus\obj\Debug\kormus.Properties.Resources.resources
+E:\koray yazlab\kormus\kormus\obj\Debug\kormus.csproj.GenerateResource.Cache
+E:\koray yazlab\kormus\kormus\obj\Debug\kormus.exe
+E:\koray yazlab\kormus\kormus\obj\Debug\kormus.pdb
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\bin\Debug\kormus.exe.config
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\obj\Debug\kormus.exe
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\obj\Debug\kormus.pdb
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\bin\Debug\kormus.exe
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\bin\Debug\kormus.pdb
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\obj\Debug\kormus.csprojResolveAssemblyReference.cache
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\obj\Debug\kormus.Form1.resources
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\obj\Debug\kormus.Properties.Resources.resources
+C:\Users\kryvr\Desktop\Yazlab2_1kormus\kormus\kormus\obj\Debug\kormus.csproj.GenerateResource.Cache
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\bin\Debug\kormus.exe.config
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\bin\Debug\kormus.exe
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\bin\Debug\kormus.pdb
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.csprojAssemblyReference.cache
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.Form1.resources
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.Properties.Resources.resources
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.csproj.GenerateResource.cache
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.csproj.CoreCompileInputs.cache
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.exe
+K:\KORAY\KORAY\MASAÜSTÜ\LAB\YazLab\130201004-130201013\kormus\kormus\obj\Debug\kormus.pdb
